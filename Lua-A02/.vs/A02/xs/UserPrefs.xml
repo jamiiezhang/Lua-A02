@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{32723405-F37D-518F-B969-8B82A328441F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/xLuaScript.txt">
+    <Files>
+      <File FileName="Assets/xLuaScript.txt" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A02" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="xLuaScript.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e8c0d5fb-6812-4ec2-bbc7-9716bc42d023" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

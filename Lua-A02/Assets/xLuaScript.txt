@@ -1,0 +1,15 @@
+HelloText = helloT
+
+function start()
+	print("Hello world")
+	helloT = helloWorld:GetComponent(typeof(CS.UnityEngine.UI.Text))
+end
+
+
+function update()
+	helloT.text = "Hello World"
+end
+
+
+function ondestroy()
+end
